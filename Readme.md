@@ -11,3 +11,5 @@ Setup-Deployement Test:UI Method
 -Once it shows it state change, write a msg and click on commit
 
 -Post that (click on publish branch for first time) and push
+
+-can be pushed agaiin after making changes
